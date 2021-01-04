@@ -31,7 +31,7 @@
 export default {}
 </script>
 
-<style>
+<style lang="scss">
 .container {
   margin: 0 auto;
   min-height: 100vh;
@@ -62,7 +62,7 @@ export default {}
 .subtitle {
   font-weight: 300;
   font-size: 42px;
-  color: #526488;
+  color: $green;
   word-spacing: 5px;
   padding-bottom: 15px;
 }
